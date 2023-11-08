@@ -1,0 +1,23 @@
+[5.548s] Invoking command in '/home/kaymarrr/Carver_Simulation/src/modelo_robot': PYTHONPATH=/home/kaymarrr/Carver_Simulation/build/modelo_robot/prefix_override:/home/kaymarrr/Carver_Simulation/install/modelo_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/modelo_robot build --build-base /home/kaymarrr/Carver_Simulation/build/modelo_robot/build install --record /home/kaymarrr/Carver_Simulation/build/modelo_robot/install.log --single-version-externally-managed
+[6.665s] running egg_info
+[6.667s] writing ../../build/modelo_robot/modelo_robot.egg-info/PKG-INFO
+[6.669s] writing dependency_links to ../../build/modelo_robot/modelo_robot.egg-info/dependency_links.txt
+[6.669s] writing entry points to ../../build/modelo_robot/modelo_robot.egg-info/entry_points.txt
+[6.669s] writing requirements to ../../build/modelo_robot/modelo_robot.egg-info/requires.txt
+[6.669s] writing top-level names to ../../build/modelo_robot/modelo_robot.egg-info/top_level.txt
+[6.673s] reading manifest file '../../build/modelo_robot/modelo_robot.egg-info/SOURCES.txt'
+[6.673s] writing manifest file '../../build/modelo_robot/modelo_robot.egg-info/SOURCES.txt'
+[6.673s] running build
+[6.673s] running build_py
+[6.673s] running install
+[6.674s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[6.674s]   warnings.warn(
+[6.674s] running install_lib
+[6.680s] running install_data
+[6.681s] copying launch/gazebo.launch.py -> /home/kaymarrr/Carver_Simulation/install/modelo_robot/share/modelo_robot/launch
+[6.681s] running install_egg_info
+[6.690s] removing '/home/kaymarrr/Carver_Simulation/install/modelo_robot/lib/python3.10/site-packages/modelo_robot-0.0.0-py3.10.egg-info' (and everything under it)
+[6.691s] Copying ../../build/modelo_robot/modelo_robot.egg-info to /home/kaymarrr/Carver_Simulation/install/modelo_robot/lib/python3.10/site-packages/modelo_robot-0.0.0-py3.10.egg-info
+[6.692s] running install_scripts
+[6.784s] writing list of installed files to '/home/kaymarrr/Carver_Simulation/build/modelo_robot/install.log'
+[6.834s] Invoked command in '/home/kaymarrr/Carver_Simulation/src/modelo_robot' returned '0': PYTHONPATH=/home/kaymarrr/Carver_Simulation/build/modelo_robot/prefix_override:/home/kaymarrr/Carver_Simulation/install/modelo_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/modelo_robot build --build-base /home/kaymarrr/Carver_Simulation/build/modelo_robot/build install --record /home/kaymarrr/Carver_Simulation/build/modelo_robot/install.log --single-version-externally-managed
